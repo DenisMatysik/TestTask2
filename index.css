@@ -14,3 +14,15 @@
 .rules{
     color: black;
 }
+
+.red{
+    accent-color: red;
+}
+
+.blue{
+    accent-color: blue;
+}
+
+.green{
+    accent-color: green;
+}
